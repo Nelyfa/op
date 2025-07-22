@@ -1,5 +1,7 @@
 # LofiRadio Proxy
 
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Nelyfa/op)
+
 Cloudflare Worker для проксирования сайта lofiradio.ru с полной функциональностью.
 
 ## Особенности
